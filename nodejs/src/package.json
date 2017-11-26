@@ -1,0 +1,14 @@
+{
+  "name": "docker-nodejs-hello",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello world app using docker",
+  "author": "Krol <guillen.carolina@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
